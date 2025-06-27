@@ -1,0 +1,7 @@
+[
+  {
+    "name": "education",
+    "default": 1.0,
+    "scope":  "local"
+  }
+]

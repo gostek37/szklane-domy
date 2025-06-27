@@ -1,0 +1,39 @@
+[
+  {
+    "name": "test-tile",
+    "dimensions": [ 1, 1, 1 ],
+    "origin": "middle",
+    "type":  "floor"
+  },
+  {
+    "name": "road",
+    "dimensions": [ 1, 1, 1 ],
+    "origin": "middle",
+    "type":  "floor"
+
+  },
+  {
+    "name": "szklany-dom",
+    "dimensions": [ 1, 1, 1 ],
+    "origin": "bottom",
+    "type":  "object"
+  },
+  {
+    "name": "test-building",
+    "dimensions": [ 4, 4, 1 ],
+    "origin": "bottom",
+    "type": "object"
+  },
+  {
+    "name": "test-building-tall",
+    "dimensions": [ 4, 4, 3 ],
+    "origin": "bottom",
+    "type": "object"
+  },
+  {
+    "name": "uczelnia",
+    "dimensions": [ 4, 4, 2 ],
+    "origin": "bottom",
+    "type": "object"
+  }
+]
